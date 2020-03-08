@@ -22,6 +22,9 @@ The purpose of this project is to show an example of how to use Convolutional Ne
 ##Products used
 
 MATLAB 9.7
+
 Deep Learning Toolbox13.0
+
 Machine Learning and Statistics 11.6
+
 Parallel Computing Toolbox 7.1
