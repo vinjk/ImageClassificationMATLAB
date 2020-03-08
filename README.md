@@ -1,8 +1,11 @@
 #Image classification using Convolutional Neural Network [MATLAB]
 
 Author: Vineet Jacob Kuruvilla, PhD
+
 Company: MathWorks
+
 Date: 8th March 2020
+
 
 ##Intended audience: 
 Beginners
