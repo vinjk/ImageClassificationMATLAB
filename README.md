@@ -12,7 +12,7 @@ The purpose of this project is to show an example of how to use Convolutional Ne
 
 Beginners
 
-What you'll learn:
+### What you'll learn:
 
 1. Using datastore
 
